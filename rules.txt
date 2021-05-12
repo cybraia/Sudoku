@@ -1,0 +1,19 @@
+The rules to solve the puzzle is as follows:
+Rule no.1 : Use numbers 1-9
+Sudoku is played on a grid of 9 x 9 spaces. Within the rows and columns are 9 'squares' (made up of 3 x 3 spaces). Each row, column and square (9 spaces each) needs to be filled out with the numbers 1-9, without  repeating any numbers within the row, column or square. Does it sound complicated? As you can see from the image below of an actual Sudoku grid, each Sudoku grid comes with a few spaces already filled in; the more spaces filled in, the easier the game – the more difficult Sudoku puzzles have very few spaces that are already filled in.
+Rule no.2 : Don't Repeat Any numbers As you can see in the upper left square, 8 out of 9 places are already filled.Now, you have to enter only number which is left out between 1-9.By seeing which numbers are missing from each square, row, or column, we can use  process of elimination and deductive reasoning to decide which numbers need to go in each blank space.
+Rule no.3 :'PLEASE DO NOT GUESS'.
+Sudoku is a game of logic and reasoning, so you shouldn’t have to guess. If you don’t know what number to put in a certain space, keep scanning the other areas of the grid until you seen an opportunity to place a number. But don’t try to 'force' anything – Sudoku rewards patience, insights, and recognition of patterns, not blind luck or  guessing.
+IMPORTANT :THE PLAYER CAN ONLY AFFORD TO MAKE 3 MISTAKES. IF MORE THAN 3 MISTAKES ARE COMMITTED,THE PLAYER WILL BE DECLARED              AS LOST
+Enjoy playing the sudoku puzzle below.REMEMBER TO FOLLOW RULES!!!
+
+The sudoku is in the format - 
+
+|square 1 |square 2 |square 3 |
+-------------------------------
+|square 4 |square 5 |square 6 |
+-------------------------------
+|square 7 |square 8 |square 9 |
+
+
+
